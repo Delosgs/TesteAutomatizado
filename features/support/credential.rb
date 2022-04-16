@@ -2,8 +2,8 @@
 
 CREDENTIAL = {   #hash mãe
     usuario_um:{      #sub hash
-        email: 'delanosilva_182@hotmail.com',
-        password: 'cavaco'
+        email: 'SEU EMAIL DO LINKEDIN',
+        password: 'SENHA DE ACESSO'
     },
     #usuario_dois:{      #sub hash
         #email: 'veruscacrocha@gmail.com',
