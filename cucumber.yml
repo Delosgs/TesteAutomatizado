@@ -1,0 +1,4 @@
+
+#Aqui vc tem outro ambiente fora do de teste, para testar homologação e produção. 
+homolog: URL=http://www.google.com
+prod: URL=http://www.linkedin.com/
