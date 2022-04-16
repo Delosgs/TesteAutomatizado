@@ -1,3 +1,3 @@
-# TesteAutomatizadoQA
+# Teste Automatizado para teste de login
 
-Cenario para teste automatizado para login no linkedin em Ruby.
+Cenario e código para teste automatizado de login no linkedin com a linguagem Ruby.
